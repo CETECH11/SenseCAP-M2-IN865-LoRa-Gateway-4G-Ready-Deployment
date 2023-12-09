@@ -1,0 +1,1 @@
+# SenseCAP-M2-IN865-LoRa-Gateway-4G-Ready-Deployment
