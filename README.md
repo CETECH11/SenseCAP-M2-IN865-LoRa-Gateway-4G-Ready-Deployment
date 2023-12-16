@@ -140,8 +140,8 @@ Set up your device name and location. Then confirm your settings. After successf
 
 ![alt text](https://hackster.imgix.net/uploads/attachments/1651031/nextpcb_4r1pEG3pxS.JPG?auto=compress%2Cformat&w=740&h=555&fit=max)
 
-This project was successfully completed because of the help and support from [NextPCB](https://www.nextpcb.com/). Guys if you have a PCB project, please visit their website and get exciting discounts and coupons.
+This project was successfully completed because of the help and support from [NextPCB]( https://www.nextpcb.com/pcb-assembly-quote). Guys if you have a PCB project, please visit their website and get exciting discounts and coupons.
 
-NextPCB offers high-quality, reliable PCB starting at $1.9, and multilayer starting at $6.9. Also, everyone can enjoy free [PCB assembly](https://www.nextpcb.com/) for 5 boards! Also, NextPCB is having a year end sale in which anyone can register through their website and get a $30 Coupon which can be used for ordering PCBs.
+NextPCB offers high-quality, reliable PCB starting at $1.9, and multilayer starting at $6.9. Also, everyone can enjoy free [PCB assembly]( https://www.nextpcb.com/pcb-assembly-quote) for 5 boards! Also, NextPCB is having a year end sale in which anyone can register through their website and get a $30 Coupon which can be used for ordering PCBs.
 
 You can also try HQDFM free online [PCB Gerber viewer](https://www.nextpcb.com/free-online-gerber-viewer.html) to check your PCB design and avoid costly errors.
